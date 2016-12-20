@@ -3,7 +3,7 @@
 #Hello-World
 
 ## Overview
-Hello-World is the repository for my git demo. Let's test some markdown.
+Hello-World is the repository for my git demo. This file will be my README template. Let's test some markdown.
 - [Website](http://www.google.com)
 
 ![hello-world](helloworld.jpg)
