@@ -1,6 +1,6 @@
 # hello-world
-![Building a Data-Driven App with AngularJS](hero.png)
-This is the repository for my git demo. Let's add some markdown.
+![hello-world](helloworld.jpeg)
+This is the repository for my git demo. Let's test some markdown.
 - [Demo Website](http://www.google.com)
 
 
