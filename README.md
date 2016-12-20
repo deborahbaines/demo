@@ -1,5 +1,5 @@
 # hello-world
-![hello-world](helloworld.jpeg)
+![hello-world](helloworld.jpg)
 This is the repository for my git demo. Let's test some markdown.
 - [Demo Website](http://www.google.com)
 
