@@ -21,6 +21,8 @@ Hello-World is the repository for my git demo. This file will be my README templ
 |
 [Links](#links)
 |
+[Release History](#release_history)
+|
 [License](#license)
 
 
@@ -65,6 +67,10 @@ Instructions go here
 - Forum
 - Issue Tracker
 - Source Code
+
+
+## Release History
+- v1.0.0 - 20161220 - Initial Release
 
 
 ## License
