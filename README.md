@@ -48,7 +48,7 @@ Instructions go here
 	- bullet
 	- bullet
  	- bullet
-2. Two: commands `> git clone https://github.com/PrintStackTrace`
+2. Two: code blocks use back-ticks `> git clone https://github.com/PrintStackTrace`
 3. Three
 4. Four
 
