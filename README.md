@@ -21,7 +21,7 @@ Hello-World is the repository for my git demo. This file will be my README templ
 |
 [Links](#links)
 |
-[Release History](#release_history)
+[Release History](#release-history)
 |
 [License](#license)
 
@@ -34,7 +34,10 @@ Hello-World is the repository for my git demo. This file will be my README templ
 - Stuff
 
 ## Install
-E pluribis unum.
+- Required Programs
+ - Prog 1
+ - Prog 2
+- Install Instructions
 
 
 ## Usage
