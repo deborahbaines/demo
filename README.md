@@ -32,7 +32,7 @@ Hello-World is the repository for my git demo. This file will be my README templ
 - Stuff
 
 ## Install
-E plurbis unum.
+E pluribis unum.
 
 
 ## Usage
