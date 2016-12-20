@@ -1,9 +1,9 @@
 [//]: # (build badges should go here)
 
-#Hello-World
+#Demo
 
 ## Overview
-Hello-World is the repository for my git demo. This file will be my README template. Let's test some markdown.
+Demo is the repository for my git training. This file will be my README template. Let's test some markdown.
 - [Website](http://www.google.com)
 
 ![hello-world](helloworld.jpg)
